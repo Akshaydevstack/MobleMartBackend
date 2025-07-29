@@ -30,7 +30,7 @@
       "password": "admin123",
       "role": "Admin",
       "cart": [],
-      "isBlock": true
+      "isBlock": false
     },
     {
       "id": "093e",
